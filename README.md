@@ -49,7 +49,8 @@ In the tsunami.py script, you can configure trading settings, such as:
 Usage
 To start the Tsunami trading bot, run the following command:
 
-python tsunami.py
+- python tsunami.py
+
 The bot will begin executing its trading strategy based on the configured settings.
 
 The bot's actions and trading results will be displayed in the terminal.
