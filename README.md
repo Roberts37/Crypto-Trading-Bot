@@ -34,17 +34,17 @@ Navigate to the project directory:
 
 Edit the api.py file and provide your API key and secret from your cryptocurrency exchange platform:
 
-api_key = 'YOUR_API_KEY'
-api_secret = 'YOUR_API_SECRET'
+- api_key = 'YOUR_API_KEY'
+- api_secret = 'YOUR_API_SECRET'
 
-Configuration
+## Configuration
 In the tsunami.py script, you can configure trading settings, such as:
 
-Symbol selection: Define the cryptocurrency pairs you want to trade.
-Timeframes: Set the desired short and long timeframes for technical analysis.
-Risk management: Configure stop-loss levels for long and short positions.
-Leverage: Define the leverage you want to use for trading.
-You can further customize the bot's trading strategy by modifying the algorithm implemented in the algo method.
+- Symbol selection: Define the cryptocurrency pairs you want to trade.
+- Timeframes: Set the desired short and long timeframes for technical analysis.
+- Risk management: Configure stop-loss levels for long and short positions.
+- Leverage: Define the leverage you want to use for trading.
+- You can further customize the bot's trading strategy by modifying the algorithm implemented in the algo method.
 
 Usage
 To start the Tsunami trading bot, run the following command:
